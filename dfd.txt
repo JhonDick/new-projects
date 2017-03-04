@@ -1,4 +1,8 @@
 sasdasd
 dsadasd
 sfafsaf
+<<<<<<< HEAD
 dfdsfdfsdfdsf
+=======
+dasdasdas
+>>>>>>> master
